@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NishaShekhawat05
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Java programming language.
+- 🌱 I’m currently learning Full Stack Development.
+- 💞️ I’m looking to a mentor to help on my project.
 - 📫 How to reach me through https://www.linkedin.com/in/nisha-shekhawat-3a657b283
 
 <!---
